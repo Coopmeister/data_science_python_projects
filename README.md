@@ -3,7 +3,7 @@ Contains examples of projects I've done using Python in both Udemy coursework an
 
 #########Project 1:  Finance Project#############
 The objective of the project is to practice visualization and pandas skills and is not meant to be a robust financial analysis or be taken as financial advice. 
-I'm interested in seeing how bank stops progressed throughout the financial crisis (https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016.
+I'm interested in seeing how bank stocks progressed throughout the financial crisis (https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308) all the way to early 2016.
 
 #########Project 2:  K-Nearest Neighbor##########
 Predict the class of an Iris plant. The classes are as follows: 1. Iris Setosa, 2. Iris Versicolour, 3. Iris Virginica
