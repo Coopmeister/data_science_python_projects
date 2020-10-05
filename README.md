@@ -21,7 +21,7 @@ Analyzed some 911 call data from Kaggle
 The objective of this project was to develop a model that can predict whether a customer is able to retire or not based on his/her features. 
 
 #########Project 7:  Support Vector Machine######
-The objectie of this project was to determine if a cancer diagnosis is benign or malignant, based on several observations/features.
+The objective of this project was to determine if a cancer diagnosis is benign or malignant, based on several observations/features.
 
 #########Project 8:  Web Scraping with Beautiful Soup######
 This was a personal project to practice web scraping using Beautiful Soup.
